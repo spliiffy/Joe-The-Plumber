@@ -87,7 +87,7 @@ main p {
 }
 
 main a {
- color:navy;
+ color:lime;
 }
 
 aside{
@@ -98,7 +98,7 @@ aside li{
   padding:1px
 }
 aside a{
-  color:navy;
+  color:lime;
 }
 aside p {
   color:#FFFFFF
@@ -224,7 +224,7 @@ input{
 }
 
 article a{
-  color:orange;
+  color:lime;
 }
 /*---------------------------Mobile Layout----------------------------*/
 .container1 { /*for index.html*/
